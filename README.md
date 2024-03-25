@@ -1,5 +1,5 @@
 - In this github repo Machine learning algorithms have been applied on datasets.
--  The algorithms such as decision tree random forest,k nearest neighbor,linear regression,logistic regression,support vector machines are implemented.
+-  The algorithms such as decision tree random forest,k nearest neighbor,linear regression,logistic regression,support vector machines have been implemented.
 * Along wiith these algorithms various methods of feature enginneering such as feature scaling,feature transformation have also been applied.
 - The Air quality index prediction project indicates the accuracy of prediction of airquality index as various regression models are used.
 - Since a nonlinearity is observevd in the dataset as the air quality index differs from place to place.
